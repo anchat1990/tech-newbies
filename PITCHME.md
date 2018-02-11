@@ -27,7 +27,7 @@ you can eat icecream for breakfast.
 
 ---
 
-##Procrastination
+## Procrastination
 
 ### is the icecream-for-breakfast of time management
 
@@ -52,7 +52,7 @@ you judge yourself.
 
 ---
 
-@title[JavaScript Block]
+@title[JavaScript Block] 
 
 # <br>
 
