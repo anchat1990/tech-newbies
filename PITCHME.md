@@ -1,16 +1,22 @@
-# Beige
+# Diary of a Newbie Developer
 
-### A GitPitch Presentation Template
+### Beating Procrastination and Boosing Productivity    
 
 ---
 
-## Tips!
+## A bit about me
 
-<br>
+Note:
+I am a junior software engineer
+Grad engg in boeing (python + JS)
+now engineer in red hat working on beaker proj (mainly python)
+lead organiser for nodegirls
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
+# <br>
 
-@fa[microphone gp-tip](Press S for Speaker Notes)
+# @fa[arrows gp-tip](Press F to go Fullscreen)
+
+# @fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
 
