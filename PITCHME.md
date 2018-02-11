@@ -8,19 +8,32 @@
 
 ## A bit about me
 
-Note:
-I am a junior software engineer
-Grad engg in boeing (python + JS)
-now engineer in red hat working on beaker proj (mainly python)
-lead organiser for nodegirls
+- A newbie software engineer |
+- Graduate Engineer in Boeing | 
+- Software Engineer at Red Hat |
+- Lead Org for NodeGirls Brisbane |
 
-# <br>
+Note: 
+up until my role in boeing, everyhting was a little different. in uni you are spoon fed quite a lot,
+even though coming from high school it may not seem like it. Deadlines are still very clear, 
+and there is a clearly defined timeline of when u should be doing what. I mean its upto you
+to skip a lecture, but then you know u have to come back to it or learn that info at some point before 
+the next tute or exam. 
+But with both red hat and node girls, i was quite a lot more free in terms of time management. It
+felt like moving out of your parents house at a young age feels. like you suddenly realise that
+you can eat icecream for breakfast. 
 
-# @fa[arrows gp-tip](Press F to go Fullscreen)
 
-# @fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
+
+##Procrastination
+
+### is the icecream-for-breakfast of time management
+
+Note:
+Its something that you know you shouldn't be doing, but it feels good so you do it and then
+you judge yourself. 
 
 ## Template Features
 
@@ -41,6 +54,11 @@ lead organiser for nodegirls
 
 @title[JavaScript Block]
 
+# <br>
+
+# @fa[arrows gp-tip](Press F to go Fullscreen)
+
+# @fa[microphone gp-tip](Press S for Speaker Notes)
 <p><span class="slide-title">JavaScript Block</span></p>
 
 ```javascript
