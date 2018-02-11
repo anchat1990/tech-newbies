@@ -1,6 +1,8 @@
-# Diary of a Newbie Developer
+## Diary of a Newbie Developer
 
-### Beating Procrastination and Boosing Productivity    
+### Beating Procrastination 
+### & 
+### Boosing Productivity    
 
 ---
 
