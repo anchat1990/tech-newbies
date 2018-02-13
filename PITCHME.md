@@ -131,6 +131,9 @@ the fact that trello is on a browser or a phone can cause some annoyances
 
 ---
 
+![Distraction](assets/image/distraction.png)
+
+---
 # Take a break
 
 - Go for a Walk |
