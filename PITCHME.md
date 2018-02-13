@@ -55,7 +55,7 @@ you get better at time management, and a direct result of that is increased prod
 
 ---
 
-# Use a Task Manager / Organiser
+# Use a Task Organiser
 
 ---
 
