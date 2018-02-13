@@ -144,6 +144,7 @@ maybe read emails? It can work wonders to write to yourself
 
 ---
 
+## Take care of yourself
 - Make sure you are getting enough exercise |
 - Eat protein & limit sugars to keep your mind alert |
 
@@ -153,9 +154,7 @@ Im not a doctor, but im sure most people would tell you this from personal exper
 ---
 
 # Summary
-
----?image=assets/image/dog.jpg&size=auto 90%
-
+![Dog](assets/image/dog.jpg)
 ---
 
 ### Questions?
