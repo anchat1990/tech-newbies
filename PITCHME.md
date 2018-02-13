@@ -43,7 +43,9 @@ It hindered my productivity
 
 ---
 
-# Tips to improve Time Management & Productivity 
+## Tips to improve Time Management & Productivity 
+
+![Brian](assets/image/brian.jpg)
 
 Note: 
 
