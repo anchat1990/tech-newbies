@@ -4,6 +4,7 @@
 ### & 
 ### Boosing Productivity    
 
+
 ---
 
 ## A bit about me
@@ -19,9 +20,7 @@ even though coming from high school it may not seem like it. Deadlines are still
 and there is a clearly defined timeline of when u should be doing what. I mean its upto you
 to skip a lecture, but then you know u have to come back to it or learn that info at some point before 
 the next tute or exam. 
-But with both red hat and node girls, i was quite a lot more free in terms of time management. It
-felt like moving out of your parents house at a young age feels. like you suddenly realise that
-you can eat icecream for breakfast. 
+But with both red hat and node girls, i was quite a lot more free in terms of time management. 
 
 
 
@@ -29,118 +28,74 @@ you can eat icecream for breakfast.
 
 ## Procrastination
 
-### is the icecream-for-breakfast of time management
-
 Note:
-Its something that you know you shouldn't be doing, but it feels good so you do it and then
+There are many reasons why people procrastinate. 
+I know one of the big reasons why i procrastinate is a fear of failure.
+It can be a lack of motivation. 
+but especially early on in my self managed learning environment when i was used to being supervised more
+It felt like moving out of your parents house at a young age feels. like you suddenly realise that
+you can eat icecream for breakfast. 
+its something that you know you shouldn't be doing, but it feels good so you do it and then
 you judge yourself. 
 
-## Template Features
+---
+### Procrastination was the icecream-for-breakfast of my time management
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
-
----?code=sample/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
+Note:
+and i've gotten a lot of advice in the months since that time that i've taken on.
+And i'm here to share what i've tried, whats worked and what hasnt.
 
 ---
 
-@title[JavaScript Block] 
+## Productivity
 
-# <br>
-
-# @fa[arrows gp-tip](Press F to go Fullscreen)
-
-# @fa[microphone gp-tip](Press S for Speaker Notes)
-<p><span class="slide-title">JavaScript Block</span></p>
-
-```javascript
-// Include http module.
-var http = require("http");
-
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
-
-// Listen on the 8080 port.
-}).listen(8080);
-```
-
-@[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting just like your IDE.)
-@[19-20](Again, all of this without ever leaving your slideshow.)
-
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
-
-@[23](You can even present code found within any GitHub GIST.)
-@[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
+Note: 
+is basically what I got when I figured out how not to procrastinate. Because when u stop procrastinating,
+you get better at time management, and a direct result of that is increased productivity
 
 ---
 
-## Template Help
-
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
+# TIP #1 !
 
 ---
 
-## Go GitPitch Pro!
+# Use Trello 
 
-<br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
-</div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
+Good for
+- To-do lists |
+- Personal reminders |
+- Delegation |
+- Prioritisation | 
+
+Note:
+delegation is a lifesavers for NodeGirls boards,
+we even used it for moving house
+Prioritisation is a life saver for myself 
 
 ---
 
-### Questions?
+# Eisenhower technique
 
-<br>
+- Urgent && Important |
+- Important && !(Urgent) |
+- !(Important) && Urgent |
+- !(Important) && !(Urgent) |
 
-@fa[twitter gp-contact](@gitpitch)
+Note:
+bible of time management and prioritisation
+Do, Plan, Delegate, Delete
 
-@fa[github gp-contact](gitpitch)
+---
 
-@fa[medium gp-contact](@gitpitch)
+## Make friends with your calendar app
 
----?image=assets/image/gitpitch-audience.jpg
+- Do some planning prep before the week starts |
+- Look at the plan for the day before you do anything else |
 
-@title[Fork this Template!]
+Note:
+Now that you have the items in your todo list, we need to look at when you can and need to do them
+get an overview of what you have going so you have a general idea of how to tackle the week.
+If you look at emails before you look at your tasks, you get distracted
 
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/beige)
+---
 
