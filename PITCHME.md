@@ -153,6 +153,7 @@ maybe read emails? It can work wonders to write to yourself
 ![exercise](assets/image/exercise.jpg)
 - Make sure you are getting enough exercise |
 - Eat protein & limit sugars to keep your mind alert |
+- Try to practise mindfulness |
 
 Note:
 Im not a doctor, but im sure most people would tell you this from personal experience
