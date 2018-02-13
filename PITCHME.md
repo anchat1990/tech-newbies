@@ -152,6 +152,12 @@ Im not a doctor, but im sure most people would tell you this from personal exper
 
 ---
 
+# Summary
+
+---?image=assets/image/dog.jpg&size=auto 90%
+
+---
+
 ### Questions?
 
 <br>
