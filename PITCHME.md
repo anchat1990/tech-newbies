@@ -26,7 +26,9 @@ But with both red hat and node girls, i was quite a lot more free in terms of ti
 
 ---
 
-## Procrastination
+# Procrastination
+
+### The icecream-for-breakfast of my time management
 
 Note:
 There are many reasons why people procrastinate. 
@@ -37,17 +39,13 @@ It felt like moving out of your parents house at a young age feels. like you sud
 you can eat icecream for breakfast. 
 its something that you know you shouldn't be doing, but it feels good so you do it and then
 you judge yourself. 
-
----
-### Procrastination was the icecream-for-breakfast of my time management
-
-Note:
+It hindered my productivity
 and i've gotten a lot of advice in the months since that time that i've taken on.
 And i'm here to share what i've tried, whats worked and what hasnt.
 
 ---
 
-## Productivity
+# Tips to improve Time Management & Productivity 
 
 Note: 
 is basically what I got when I figured out how not to procrastinate. Because when u stop procrastinating,
@@ -55,7 +53,7 @@ you get better at time management, and a direct result of that is increased prod
 
 ---
 
-# TIP #1 !
+# TIP #1 
 
 ---
 
