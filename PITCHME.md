@@ -55,17 +55,12 @@ you get better at time management, and a direct result of that is increased prod
 
 ---
 
-# TIP #1 
-
----
-
 # Use a Task Manager / Organiser
 
 ---
 
-# trello
+## trello
 
-Good for
 - To-do lists |
 - Personal reminders |
 - Delegation |
@@ -83,7 +78,7 @@ use different boards for different topics
 
 ---
 
-# Eisenhower technique
+## Eisenhower technique
 
 - Urgent && Important |
 - Important && !(Urgent) |
@@ -149,11 +144,27 @@ maybe read emails? It can work wonders to write to yourself
 
 ---
 
-- Make sure you are getting enough exercise
-- Eat protein & limit sugars to keep your mind alert
+- Make sure you are getting enough exercise |
+- Eat protein & limit sugars to keep your mind alert |
 
 Note:
 Im not a doctor, but im sure most people would tell you this from personal experience
 
 ---
+
+### Questions?
+
+<br>
+
+@fa[twitter gp-contact](@AnweshaChatte12)
+
+@fa[github gp-contact](anchat1990)
+
+@fa[medium gp-contact](@anweshachatterjee)
+
+@fa[linkedin gp-contact](/chatterjeeanwesha)
+
+---
+
+# Thank you!
 
