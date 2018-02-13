@@ -78,6 +78,7 @@ use different boards for different topics
 
 # Prioritise
 
+![priorities](assets/image/procrastination-meme.jpeg)
 ---
 
 ## Eisenhower technique
