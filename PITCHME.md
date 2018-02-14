@@ -9,10 +9,10 @@ Boosting Productivity
 
 ## A bit about me
 
-- A newbie software engineer |
-- Graduate Engineer in Boeing | 
-- Software Engineer at Red Hat |
-- Lead Org for NodeGirls Brisbane |
+- Bachelor of Electronics & Computer Engineering @ Griffith |
+- Graduate Engineer @ Boeing | 
+- Software Engineer @ Red Hat |
+- Lead Organiser @ NodeGirls Brisbane |
 
 Note: 
 up until my role in boeing, everyhting was a little different. in uni you are spoon fed quite a lot,
