@@ -2,7 +2,7 @@
 
 Beating Procrastination 
 & 
-Boosing Productivity    
+Boosting Productivity    
 
 
 ---
