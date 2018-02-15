@@ -83,7 +83,7 @@ use different boards for different topics
 
 ## Eisenhower technique
 
-- Urgent && Important |
+- Important && Urgent |
 - Important && !(Urgent) |
 - !(Important) && Urgent |
 - !(Important) && !(Urgent) |
